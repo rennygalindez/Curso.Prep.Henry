@@ -1,0 +1,1 @@
+Array = recuerdas cuando hablamos de las varibles y que podian ser como las gavetas de tu comoda, donde guardas tu ropa? Bueno la comoda en donde estan tus gavetas pudieramos verla como un array, lo que quiere decir que un array es un espacio donde podemos agrupar varias variables o valores que no necesarmente sean variable.

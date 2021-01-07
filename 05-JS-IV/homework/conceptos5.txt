@@ -1,0 +1,25 @@
+    Objetos: Imagina un estacionamiento, adentro hay varios vehiculos, 
+cada parqueado en un puesto con un numero, si entro a el estacionamiento y
+dejo mi carro en el puesto numero 15 y salimos al regresar sabemos que: 
+primero debemos ir al estacionamiento y luego buscar el numero 15,
+eso nos dejara encontrar nuestro carro otra vez, bien un Objeto podemos 
+compararlo con Estacionamiento que puede terner varios puestos con numeros,
+en los objetos en lugar carros guarda informacion, esta informacion puede ser una funcion 
+(De esas que hablamos y comparamos con la licuadora), que cuando se encuentra dentro del obj se llama metodo,
+pero ademas cada puesto del obj puede tener un valor, como el que tienen una variable o
+puede ser una variable tambien, pero dentro de unn objeto la llamaremos propiedad,
+cuando estas programando puedes usar lo que contiene un objeto
+con una manera especial de llamarlo, imagina nuevamente el estacionamiento, si usas esta
+forma especial de llamada puedes hacer que tu carro aparezca si escribes "estacionamiento[15]",
+pero el puesto puede tener como nombre un string (una palabra) por ejemplo "estacionamiento.puestoA"
+esto haria que aprarezca nuestro carro, como en el caso anterior, bien si viste,
+ usamos dos maneras de llamar a nuestro carro dentro del estacionamiento,
+. y [] estas son dos diferentes formas de hacer lo mismo, llamar nuestro carro, 
+usar . o [] depende del nombre del puesto del obj, estos puesto se llaman propiedades.
+
+
+    Bucle for...in: recordando el bucl for, que nos dejaba lavar automaticamente los platos de uno en uno,
+recorriendo un grupo de platos, el bucle for esta pensado para recorrer un grupo de valores metido en 
+un array, pero el for...in esta pesado para recorrer objetos, y cada vez que el bucle mire en un espacio del
+objeto nos permitira saber el nombre con el que debemos llamar un propiedad o un metodo, dependiendo de lo
+que hay adentro del espacio.

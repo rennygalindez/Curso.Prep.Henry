@@ -1,0 +1,10 @@
+{
+  "nombre": "karyn",
+  "apellido": "Galindez",
+  "edad": 43,
+  "skills": ["hermosa", 422, "smart", "funny"],
+  "hijos": {"nombre": "karyn",
+            "apellido": "Galindez",
+            "edad": 43,
+            "skills": ["hermosa", 422, "smart", "funny"]}
+}

@@ -1,0 +1,9 @@
+h1 {
+  display: inline-block;
+}
+
+img {
+  width: 200px;
+  border-radius: 5%;
+  float: right;
+}

@@ -1,0 +1,18 @@
+Callbacks: Bien a veces necesitamos hacer dos cosas, 
+pero necesitamos algunos materiales 
+para poder hacerlo, como por ejemplo lavar tu ropa y hacer la tarea, 
+primero debemos lavar la ropa y luego hacer la tarea,
+Pero cuando comienzas te das cuenta que no hay jabon,
+en este caso tenemos la ropa sucia, la lavadora, solo falta el jabon,
+
+lo que pasaria es que debemos ir al super y comprar 
+jabon, ir al super tomara tiempo y no nos permitira comenzar con la tarea
+pero que tal si alguien puede ir por nosotros, traer el jabon y
+mientras esa otra persona trae el jabon, yo puedo comenar con mi tarea,
+Genial, podriamos comenzar dos cosas al mismo tiempo, lo unico que deberíamos
+hacer es dejarle una nota a quien fue por el jabon, esa nota le explicara
+que hacer con el jabon cuando lo traiga del super, a esta nota en JS
+la llamaremos Callbacks, los callbacks son funciones (Licuadoras) 
+que le dejamos a JS para que cuando se complete una tarea que toma tiempo
+ejecute ese callback, de esa manera JS puede hacer otras cosas sin tener que 
+esperar por el resultado de esa tarea demorada.
